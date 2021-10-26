@@ -9,16 +9,16 @@ xxx是一支发源于硅谷，深耕于华夏的科技强行军。矩阵未来�
 我们的面试为两轮，远程工程面试和现场项目面试。
 * 我们首先将进行远程工程面试，考察工程师的基本能力。我们有3种职位类型一共6个题目文件，您需要根据您选择面试的岗位选择相应的一道或者多道题目（完成的题目越多显示您越好的技术全面性），完成后通过文件中说明的方式发送解答邮件到我们的邮箱（如果完成了多道题目，请用总结在一封邮件中发给我们）。具体题目如下：
   * UI设计
-    * [前端设计](https://github.com/crazybean/pre_interview/questions/%E5%89%8D%E7%AB%AF%E8%AE%BE%E8%AE%A1.md)
+    * [前端设计](https://github.com/crazybean/pre_interview/blob/master/questions/%E5%89%8D%E7%AB%AF%E8%AE%BE%E8%AE%A1.md)
   * 前端开发
-    * [前端开发](https://github.com/crazybean/pre_interview/questions/%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91.md)
+    * [前端开发](https://github.com/crazybean/pre_interview/blob/master/questions/%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91.md)
   * 后端/爬虫开发
-    * [后端开发](https://github.com/crazybean/pre_interview/questions/%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91.md)
-    * [爬虫（初级）](https://github.com/crazybean/pre_interview/questions/%E7%88%AC%E8%99%AB%EF%BC%88%E5%88%9D%E7%BA%A7%EF%BC%89.md)
-    * [爬虫（高级）](https://github.com/crazybean/pre_interview/questions/%E7%88%AC%E8%99%AB%EF%BC%88%E9%AB%98%E7%BA%A7%EF%BC%89.md)
-    * [机器学习/数据分析](https://github.com/crazybean/pre_interview/questions/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0.md)
+    * [后端开发](https://github.com/crazybean/pre_interview/blob/master/questions/%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91.md)
+    * [爬虫（初级）](https://github.com/crazybean/pre_interview/blob/master/questions/%E7%88%AC%E8%99%AB%EF%BC%88%E5%88%9D%E7%BA%A7%EF%BC%89.md)
+    * [爬虫（高级）](https://github.com/crazybean/pre_interview/blob/master/questions/%E7%88%AC%E8%99%AB%EF%BC%88%E9%AB%98%E7%BA%A7%EF%BC%89.md)
+    * [机器学习/数据分析](https://github.com/crazybean/pre_interview/blob/master/questions/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0.md)
   * 电商运营
-    * [运营助理](https://github.com/crazybean/pre_interview/questions/电商运营.md)
+    * [运营助理](https://github.com/crazybean/pre_interview/blob/master/questions/电商运营.md)
 * 当通过了远程工程面试，你将被邀请参加一个我们的「现场项目面试」面试。「现场项目面试」需要您带上自己的笔记本电脑，配置好相应的编程环境，会有实际的项目题需要您使用您最熟悉的开发环境完成开发，用于我们确认您独自开发的能力，面试时间为您自己决定的半个小时到4个小时不等（面试具体时间可短可长，因为是现场项目做的节奏由您自己决定，所以最短可以半个小时以内结束，如果你想多花时间，4个小时也可以），如果再远程面试中您是自己独立完成的，则现场项目面试你一定可以轻松完成。
 
 ## 我们看重工程师的什么素质
